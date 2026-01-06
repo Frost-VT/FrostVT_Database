@@ -39,4 +39,4 @@ Resources will typically be in this format:
 Any folder named "src" is where I'll keep any downloaded media relevant to the level it's in.
 
 If "Sub-Categories" isn't a thing I can figure out, the entire directory structure shifts up a level. 
-I won't be getting them right in my first go, but I'm certain that I'll get better at organizing them as we progress. 
+I won't be getting them right in my first go, but I'm certain that I'll get better at organizing them as we progress.  
