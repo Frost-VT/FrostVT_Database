@@ -26,15 +26,28 @@ Resources will typically be in this format:
 
 	    └── L1: Sub-Categories
 	
-			├── L2: 0_Learnings [Compiled ver. of processed stuff]
+			├── L2: *0_Learnings*
+			
+			├── L2: [Optional] *Experimentation* + *Exploration* 
+			
+			├── L2: [Optional] *Resources* 
 	
-			└── L2: A folder for each Content Creator
+			└── L2: *Each Content Creator*
 	
-				└── L3 "Processed" Folder
+				└── L3: *Processed*
 	
-				└── L3: "Unprocessed" Folder
+				└── L3: *Unprocessed*
 	
 					└── L4 (for both):  The actual vids and texts
+
+
+**0_Learnings**: The organized version of my notes for this
+
+**Experimentation**: where I replicate individual features that I have learned
+**Exploration**: a testing space, attempting to fit those features into my use-cases
+
+**Unprocessed**: Content that I haven't had the time to think about properly
+**Processed**: Content that I have had time to think about, and have made notes for
 
 Any folder named "src" is where I'll keep any downloaded media relevant to the level it's in.
 
