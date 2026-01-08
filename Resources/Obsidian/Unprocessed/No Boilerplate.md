@@ -1,5 +1,4 @@
 ### Hack your brain with Obsidian.md (pt 1)
-
 https://www.youtube.com/watch?v=DbsAQSIKQXk
 
 Started at 3:20 PM
@@ -52,9 +51,43 @@ LanguageTool | Comprehensive stylecheck
 Linter | Markdown style formatting
 
 ### Obsidian.md: The Good Parts (pt. 2)
-
+https://www.youtube.com/watch?v=B0yAy2j-9V0
 The author believes that Canvas is more machine-readable, while Kanban is more human-readable.
 There's no "Right" way to use Obsidian, but there are "Wrong" ways to use it
 
 ![[CanvasBad_KanbanGood.png]]
 
+It's suggested to avoid folders, and focus mostly on tags
+
+
+![[Pasted image 20260108152556.png]]
+
+![[Pasted image 20260108152603.png]]
+
+When using links, it's suggested to use links, links with an alias, or links to a heading.
+
+![[Pasted image 20260108152537.png]]
+
+### Obsidian Learning Part I: Capture
+https://www.youtube.com/watch?v=i8h4eTcxF9E
+
+![[Pasted image 20260108153100.png]]
+
+Another set up plugins:
+
+Breadcrumbs | Navigate through notes by parent, sibling, child ontology links
+Commander | Build your own commands
+Vimrc Plugins | Enables native clipboard
+Vimium | Click anything on screen without using your mouse
+Built-in Vim Mode
+Spacekeys
+Vim Yank Highlight
+Improved Vim Cursor
+
+![[Pasted image 20260108153425.png]]
+
+Literature Notes: 
+Highlighted References
+
+Fleeting Notes:
+Notes you take, temporary and to be discarded some day
