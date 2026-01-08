@@ -58,6 +58,4 @@ All the content that I feel like contributed to an extraordinary degree to my le
 
 ---
 
-
-![[BrainMade_White.png]]
-![[BrainMade_Black.png]]
+![[BrainMade_Black.png]]![[BrainMade_White.png]]
