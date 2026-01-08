@@ -1,3 +1,5 @@
+### Hack your brain with Obsidian.md (pt 1)
+
 https://www.youtube.com/watch?v=DbsAQSIKQXk
 
 Started at 3:20 PM
@@ -10,7 +12,7 @@ So it has headings, checkboxes, lists, and the usual stuff.
 It also has Graph View:
 Here, groups were used to depict the files in some way
 
-![[Pasted image 20260106173853.png]]
+![[Graph_View.png]]
 
 
 Putting the name of a file in double square brackets creates a link.
@@ -48,4 +50,11 @@ GPT-3 Notes | A ChatGPT Interface
 Kanban | Trello in Markdown
 LanguageTool | Comprehensive stylecheck
 Linter | Markdown style formatting
+
+### Obsidian.md: The Good Parts (pt. 2)
+
+The author believes that Canvas is more machine-readable, while Kanban is more human-readable.
+There's no "Right" way to use Obsidian, but there are "Wrong" ways to use it
+
+![[CanvasBad_KanbanGood.png]]
 
