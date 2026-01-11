@@ -54,9 +54,9 @@ Any folder named "src" is where I'll keep any downloaded media relevant to the l
 If "Sub-Categories" isn't a thing I can figure out, the entire directory structure shifts up a level. 
 I won't be getting them right in my first go, but I'm certain that I'll get better at organizing them as we progress.
 
-The same content creator can show up in two different categories.
+The same content creator can show up in two different categories
 
-All the content that I feel like contributed to an extraordinary degree to my learning and/or happiness will be tagged with a #frostpick tag
+All the content that I feel like contributed to an extraordinary degree to my learning and/or happiness will be tagged with a #frostpick tag or placed in the `0_Stars` folder
 
 ---
 

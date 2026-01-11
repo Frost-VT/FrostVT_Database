@@ -6,4 +6,4 @@ Mononote does 2 things for me.
 
 2. If I try to open an already open note, it instead focuses onto the note I want to open. 
 
-These 
+These two perks make it an essential for me! ^^
