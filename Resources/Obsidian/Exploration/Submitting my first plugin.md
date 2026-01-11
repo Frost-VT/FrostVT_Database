@@ -1,3 +1,7 @@
+NOTE: IGNORE THIS. I believe this isn't necessary anymore, since the dev of the plugin has responded. Maybe this will lead to the original source publishing it themselves! ^^
+
+---
+
 It appears hot-reload exists as a git repository https://github.com/pjeby/hot-reload
 But not as a community-plugin.
 
