@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="Rhythm Game Attempt"
+run/main_scene="uid://c5p3hufnu1ruk"
 config/features=PackedStringArray("4.5", "GL Compatibility")
 config/icon="res://icon.svg"
 
