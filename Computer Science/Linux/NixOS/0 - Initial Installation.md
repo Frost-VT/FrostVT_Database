@@ -1,3 +1,9 @@
+---
+id: 0 - Initial Installation
+aliases: []
+tags: []
+---
+
 A distro I've always wanted to look into has been NixOS. 
 
 Now that I'm tracking everything, I think it'd be fun to explore this with all of you, and chronicle my journey through it.
@@ -20,5 +26,5 @@ There are two steps:
 	- I've used Rufus in the past
 	- I'm using [USBWriter](https://sourceforge.net/projects/usbwriter/files/latest/download#) here to stick close to the guide
 
+2.
 PHONE AWK 1
-
