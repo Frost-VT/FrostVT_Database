@@ -12,4 +12,6 @@ Just needed to throw a PAT in there.
 
 Doing one check to ensure there's no funny business.
 
-Here's the 
+Here's the installation guide:
+https://nixos.wiki/wiki/NixOS_Installation_Guide
+
