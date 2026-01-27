@@ -15,3 +15,8 @@ Doing one check to ensure there's no funny business.
 Here's the installation guide:
 https://nixos.wiki/wiki/NixOS_Installation_Guide
 
+There are two steps:
+1. Get something to write the Bootable OS onto a USB
+	- I've used Rufus in the past
+	- I'm using [USBWriter](https://sourceforge.net/projects/usbwriter/files/latest/download#) here to stick close to the guide
+2. 
