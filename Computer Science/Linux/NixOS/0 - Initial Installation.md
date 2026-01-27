@@ -11,3 +11,5 @@ Hit a slight bump along the way, apparently obsidian-git doesn't support SSH so 
 Just needed to throw a PAT in there.
 
 Doing one check to ensure there's no funny business.
+
+Here's the 
