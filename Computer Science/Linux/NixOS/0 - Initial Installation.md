@@ -28,3 +28,4 @@ There are two steps:
 
 2.
 PC CHECK
+PHONE CHECK
