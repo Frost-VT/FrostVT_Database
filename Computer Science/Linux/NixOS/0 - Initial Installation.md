@@ -27,9 +27,4 @@ There are two steps:
 	- I'm using [USBWriter](https://sourceforge.net/projects/usbwriter/files/latest/download#) here to stick close to the guide
 
 2.
-PHONE AWK 1
-LAPTOP AWK 1 - Terminal
 PHONE AWK 1 - Terminal
-LAPTOP AWK 2 - Terminal
-PHONE AWK 2 - Terminal
-PHONE AWK 3
