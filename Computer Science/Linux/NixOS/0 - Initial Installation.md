@@ -31,3 +31,5 @@ PHONE AWK 1
 LAPTOP AWK 1 - Terminal
 PHONE AWK 1 - Terminal
 LAPTOP AWK 2 - Terminal
+PHONE AWK 2 - Terminal
+PHONE AWK 3
