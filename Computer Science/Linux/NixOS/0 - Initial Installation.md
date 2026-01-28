@@ -27,7 +27,6 @@ There are two steps:
 	- I'm using [USBWriter](https://sourceforge.net/projects/usbwriter/files/latest/download#) here to stick close to the guide
 
 2.
-PC CHECK
-PHONE CHECK
-PC CHECK AGAIN
-PHONE CHECK AGAIN
+
+...slight inconvenience 
+![[5dbefcc5-8415-4d54-a143-f242ca5ef936 1.jpg]]
