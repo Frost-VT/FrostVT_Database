@@ -29,4 +29,6 @@ There are two steps:
 2.
 
 ...slight inconvenience 
-![[5dbefcc5-8415-4d54-a143-f242ca5ef936 1.jpg]]oh my.
+![[5dbefcc5-8415-4d54-a143-f242ca5ef936.jpg|579x582]]
+
+oh my.
