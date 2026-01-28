@@ -29,5 +29,4 @@ There are two steps:
 2.
 PHONE AWK 1 - Terminal
 PC AWK 1 - Terminal
-PC AWK 2
 
