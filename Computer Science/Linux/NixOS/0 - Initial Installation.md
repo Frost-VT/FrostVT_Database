@@ -30,5 +30,4 @@ There are two steps:
 PHONE AWK 1 - Terminal
 PC AWK 1 - Terminal
 PC AWK 2
-huh
-
+Attempt 1 pt 2
