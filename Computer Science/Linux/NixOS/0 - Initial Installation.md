@@ -32,3 +32,10 @@ There are two steps:
 ![[5dbefcc5-8415-4d54-a143-f242ca5ef936.jpg|579x582]]
 
 oh my.
+
+---
+
+Turns out, my USB had gotten corrupted.
+
+None of the text above in this mattered except "Failure to mount /mnt-root"
+
