@@ -49,6 +49,8 @@ Resources will typically be in this format:
 **Unprocessed**: Content that I haven't had the time to think about properly
 **Processed**: Content that I have had time to think about, and have made notes for
 
+**PLACEHOLDER**: A garbage file kept there as a placeholder in order to ensure that empty folders are still pushed onto github
+
 Any folder named "src" is where I'll keep any downloaded media relevant to the level it's in.
 
 If "Sub-Categories" isn't a thing I can figure out, the entire directory structure shifts up a level. 
