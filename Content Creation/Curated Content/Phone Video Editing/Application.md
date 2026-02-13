@@ -10,4 +10,10 @@ https://www.reddit.com/r/NewTubers/s/Q5gvjLRHs6
 4. YouCut
 5. ~~Adobe Premiere Rush~~ (I prefer not to use an Adobe product if I can help it.)
 
+So I installed 4 apps, that should be plenty.
 
+I'll try to use each of them to accomplish the same workflow of 
+
+1. Remove silence
+2. Add nice captions
+3. Toss an emoji i
