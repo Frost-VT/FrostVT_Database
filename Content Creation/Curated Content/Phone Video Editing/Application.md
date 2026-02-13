@@ -6,7 +6,5 @@ https://www.reddit.com/r/NewTubers/s/Q5gvjLRHs6
 
 1. I shot
 2. Power director
-
-
-
-
+3. Capcut
+4. ~~Adobe Premiere Rush~~ (I'm notmany things I would rather do than use an Adobe product)
