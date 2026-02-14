@@ -19,8 +19,5 @@ I'll try to use each of them to accomplish the same workflow of
 2. Add nice captions
 3. Toss an emoji in there
 4. Some panning and camera movement 
-## Workstation
-# 12 Noon
-**12:52:09 PM**: 
-**12:52:09 PM**: 
 
+Bonus: Auto-captions that can be edited in post 
