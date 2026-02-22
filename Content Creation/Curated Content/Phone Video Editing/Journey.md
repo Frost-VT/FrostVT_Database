@@ -8,13 +8,16 @@
 # Inshot
 Can hold on videos to watch previews before selecting
 
-Silence removal is a paid feature.
 
 Audio track can't be selected separately 
 
 Has its own library of sound effects and effects that can be used
 
-VERY nice filter selection.
+VERY nice filter selection, but can't seem to be repositioned. 
+
+### 1 . Remove Silence
+Auto Silence removal is a paid feature.
+Can remove silence by manually cropping, but it's inconvenient since audio doesn't show in a separate line
 
 
 1. Power director
