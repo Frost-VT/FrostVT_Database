@@ -19,6 +19,10 @@ VERY nice filter selection, but can't seem to be repositioned.
 Auto Silence removal is a paid feature.
 Can remove silence by manually cropping, but it's inconvenient since audio doesn't show in a separate line
 
+### 2. Nice Captions
+Line breaks are convenient to input
+Decent set of colors and shapes
+
 
 1. Power director
 2. Capcut
