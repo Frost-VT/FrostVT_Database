@@ -8,6 +8,13 @@
 # Inshot
 Can hold on videos to watch previews before selecting
 
+Silence removal is a paid feature.
+
+Audio track can't be selected separately 
+
+Has its own library of sound effects and effects that can be used
+
+VERY nice filter selection.
 
 
 1. Power director
