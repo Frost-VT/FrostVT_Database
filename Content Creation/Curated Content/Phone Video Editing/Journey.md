@@ -1,1 +1,8 @@
-I'll wait until my phone's at a 100 before editing today
+# Inshot
+
+
+
+1. Power director
+2. Capcut
+3. YouCut
+4. Edits
