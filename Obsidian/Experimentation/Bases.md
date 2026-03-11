@@ -1,1 +1,2 @@
 1. https://help.obsidian.md/bases
+[obsidian://open?vault=FrostVT's%20Compendium&file=Resources%2FComputer%20Science%2FLinux%2FNixOS](obsidian://open?vault=FrostVT%27s%20Compendium&file=Resources%2FComputer%20Science%2FLinux%2FNixOS)
