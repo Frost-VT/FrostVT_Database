@@ -1,3 +1,4 @@
+# Branch Management
 When I change branches, I can use github cli to update all of this online
 
 1. Push local branch online
@@ -8,3 +9,7 @@ When I change branches, I can use github cli to update all of this online
 
 3. (Optional) Set it declaratively without being directly on the repo directory
 `gh repo edit Frost-VT/FrostVT_Database --default-branch 2026_mar`
+
+---
+# Replication
+I've made a GitHub hook to update the repo after sanitizing it
