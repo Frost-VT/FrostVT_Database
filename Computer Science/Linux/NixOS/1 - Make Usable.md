@@ -1,1 +1,1 @@
-Test3
+nix-hash --to-base64 --type sha256 (nix-prefetch-url https://github.com/zen-browser/desktop/releases/latest/download/zen-x86_64.AppImage)
