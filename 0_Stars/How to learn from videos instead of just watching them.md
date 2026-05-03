@@ -26,6 +26,8 @@ Fair Fight's Framework for Learning:
 |          |                                      |          |      |      |         |                  |                    |
 |          |                                      |          |      |      |         |                  |                    |
 |          |                                      |          |      |      |         |                  |                    |
+|          |                                      |          |      |      |         |                  |                    |
+
 As a beginner, these practices should be a lot smaller and simpler.
 As you learn, these should scale upwards.
 
